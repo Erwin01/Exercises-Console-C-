@@ -1,2 +1,2 @@
-# Exercises-Console-C-
+# Exercises Console C#
 Exercises done in console using C#
